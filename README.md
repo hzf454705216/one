@@ -1,6 +1,7 @@
 # one
 First test
-add one line at 10:52
+<<<<<<< HEAD
+add one line at 10:53
 local change
 12:33
 12：52
